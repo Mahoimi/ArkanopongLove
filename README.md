@@ -1,5 +1,7 @@
 # Arkanopong
 
+![Alt text](/../screenshot/img/arkanopong_preview.png?raw=true "Arkanopong preview")
+
 Created with the game engine Löve (http://love2d.com), Arkanopong is, as its name implies, a mix of Arkarnoid and Pong.
 
 Features:
